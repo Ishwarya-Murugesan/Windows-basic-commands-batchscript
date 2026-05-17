@@ -25,51 +25,50 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-<img width="248" height="41" alt="image" src="https://github.com/user-attachments/assets/403c843b-99fe-41cd-b7aa-22d4bf5bf386" />
+![alt text](image.png)
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-<img width="265" height="42" alt="image" src="https://github.com/user-attachments/assets/27eff3f9-f898-4ed1-aa62-5aae2a30357f" />
+![alt text](image-1.png)
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="251" height="41" alt="image" src="https://github.com/user-attachments/assets/0792e213-d387-4433-a2ee-b01cbbe518a3" />
+![alt text](image-2.png)
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-<img width="306" height="42" alt="image" src="https://github.com/user-attachments/assets/48b2a89e-bdf3-4f0b-9258-2514535310d3" />
+![alt text](image-3.png)
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-<img width="278" height="36" alt="image" src="https://github.com/user-attachments/assets/f2527b5a-083d-4c62-a169-b08a62daa4ec" />
+![alt text](image-4.png)
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
-<img width="333" height="41" alt="image" src="https://github.com/user-attachments/assets/681f343c-c671-47b0-bd35-198df72b72b6" />
+![alt text](image-5.png)
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-<img width="347" height="107" alt="image" src="https://github.com/user-attachments/assets/f7fb0c25-6d0d-45fc-bc4d-0ac0b68b2d72" />
+![alt text](image-6.png)
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-<img width="510" height="367" alt="image" src="https://github.com/user-attachments/assets/bbc6a61e-869f-42f0-9adf-5bf624c568ea" />
+![alt text](image-7.png)
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="373" height="100" alt="image" src="https://github.com/user-attachments/assets/1606cbc2-b3de-4e76-a765-7b9f7709ff54" />
-
+![alt text](image-8.png)
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 ##PROGRAM
@@ -84,8 +83,7 @@ pause
 
 
 ## OUTPUT
-<img width="352" height="41" alt="image" src="https://github.com/user-attachments/assets/2498af29-4891-4236-ae40-debf68310742" />
-
+![alt text](image-9.png)
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -126,7 +124,7 @@ pause
 ```
 
 ## OUTPUT
-<img width="371" height="121" alt="image" src="https://github.com/user-attachments/assets/75bc7f08-15c3-489c-a64f-d0adaa9e375e" />
+![alt text](image-10.png)
 
 
 
@@ -146,8 +144,7 @@ pause
 
 
 ## OUTPUT
-<img width="377" height="93" alt="image" src="https://github.com/user-attachments/assets/f1ab7674-6a78-4613-bef0-f778af76b8b0" />
-
+![alt text](image-11.png)
 
 
 
@@ -172,7 +169,7 @@ pause
 ```
 
 ## OUTPUT
-<img width="366" height="40" alt="image" src="https://github.com/user-attachments/assets/5df9b8c9-3bcb-4ea6-b577-707b60dabb78" />
+![alt text](image-12.png)
 
 
 Write a batch script that displays a simple menu with three options:
@@ -218,7 +215,7 @@ exit
 ```
 
 ## OUTPUT
-<img width="407" height="126" alt="image" src="https://github.com/user-attachments/assets/0a92a383-77c2-4da8-a1b2-58892252ba8a" />
+![alt text](image-13.png)
 
 
 
